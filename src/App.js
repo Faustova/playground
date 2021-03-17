@@ -5,7 +5,11 @@ import "./App.css";
 // my second change
 // 3 comment
 // comment 4
+<<<<<<< HEAD
 // comment five
+=======
+// comment 5
+>>>>>>> main
 
 class App extends React.Component {
   constructor(props){
